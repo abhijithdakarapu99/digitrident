@@ -1,0 +1,45 @@
+a{
+    font-size: 18px;
+}
+.ofindex{
+    background-image: url("images/sales\ boost\ pic\ 3.jpg");
+    background-size: cover;
+    padding-bottom: 1rem;
+  }
+.sm_div{
+    margin-top: 20px;
+}
+ .icon_buttons{
+     width: 40px;
+     margin-top: 2px;
+     transition-duration: 0.8s;
+ }
+ .fb_icon{
+     margin-right: 20px;
+ }
+ .in_icon{
+     margin-right: 20px;
+ }
+ .icon_buttons:hover{
+     width: 53px;
+ }
+ .clients_div{
+    margin-top: 10px;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 30px;
+    color: #706C61;
+ }
+ .tech_div{
+     margin-top: 40px;
+     margin-bottom: 10px;
+     background-color: #E1F4F3;
+     border-radius: 5px;
+     padding-top: 30px;
+     padding-left: 100px;
+     padding-right: 50px;
+     padding-bottom: 30px;
+     color: #706C61;
+ }
